@@ -1,0 +1,13 @@
+{
+  "liveServer.settings.port": 5501,
+  "liveServer.settings.host": "localhost",
+  "liveServer.settings.CustomBrowser": "chrome",
+  "liveServer.settings.root": "/",
+  "liveServer.settings.ignoreFiles": [
+    "**/backend/**",
+    "**/*.py",
+    "**/*.pyc",
+    "**/__pycache__/**"
+  ],
+  "liveServer.settings.wait": 500
+}
